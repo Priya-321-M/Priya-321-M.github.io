@@ -29,9 +29,7 @@
    <input  type="checkbox" id="acceptTerms" name="acceptTerms">
    <label for="acceptTerms">Accept Terms & Conditions</label>
 <br>
-   <button type="submit">Submit</button>
-</form>
-          
+   <button typ        
   
   <div
   class="relative bg-white px-6 mt-5 pt-10 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:rounded-lg sm:px-10">
